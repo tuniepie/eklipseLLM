@@ -1,0 +1,35 @@
+# Core ML and Video Processing
+torch
+opencv-python
+numpy
+whisper
+transformers
+pytube
+pydub
+ffmpeg-python
+langchain-community
+faiss-cpu
+langchain
+sentence_transformers
+
+# Embedding and Search
+# cohere
+# faiss
+
+# UI and Web
+streamlit
+
+# Utility
+python-dotenv
+loguru
+
+# Testing
+pytest
+pytest-mock
+coverage
+
+# Optional: Development tools
+black
+
+# System monitoring
+psutil
